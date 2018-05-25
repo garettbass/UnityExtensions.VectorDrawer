@@ -1,0 +1,12 @@
+{
+    "name": "UnityExtensions.VectorDrawer.Editor",
+    "references": [
+        "UnityExtensions.VectorDrawer"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
